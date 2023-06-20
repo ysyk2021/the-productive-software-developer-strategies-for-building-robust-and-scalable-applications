@@ -1,0 +1,6 @@
+[book]
+authors = ["ysykzheng"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Productive Software Developer: Strategies for Building Robust and Scalable Applications"
