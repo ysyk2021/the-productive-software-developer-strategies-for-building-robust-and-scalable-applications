@@ -1,7 +1,6 @@
 # Summary
 
 - [Chapter 1: Introduction](README.md)
-  - [Purpose of the book](chapter-1-1.md)
   - [Definition of productive software development](chapter-1-2.md)
   - [Why productivity is important for building robust and scalable applications](chapter-1-3.md)
 - [Chapter 2: Understanding Productivity in Software Development](chapter-2.md)
