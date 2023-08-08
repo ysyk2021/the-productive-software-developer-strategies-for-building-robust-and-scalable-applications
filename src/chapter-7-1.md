@@ -1,4 +1,4 @@
-The challenges of managing technical debt and legacy code in productive software development
+The Challenges Of Managing Technical Debt And Legacy Code In Productive Software Development
 ================================================================================================================================================
 
 Managing technical debt and legacy code can be a significant challenge for software development teams, impacting productivity, efficiency, and the ability to deliver high-quality work. In this chapter, we will explore the challenges of managing technical debt and legacy code and discuss strategies for mitigating their impact on software development.

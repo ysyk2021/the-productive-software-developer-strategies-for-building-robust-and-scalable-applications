@@ -1,4 +1,4 @@
-How to use video conferencing and other technologies to enhance remote collaboration
+How To Use Video Conferencing And Other Technologies To Enhance Remote Collaboration
 ===================================================================================================================================================================
 
 Remote work has become increasingly popular in the software development industry. While remote work offers many benefits, it can also present challenges, particularly when it comes to collaborating and communicating effectively with team members who are not physically located in the same place. In this chapter, we will explore how video conferencing and other technologies can be used to enhance remote collaboration and communication.
