@@ -3,7 +3,7 @@ The Importance of Planning and Requirements Gathering in Productive Software Dev
 
 In this chapter, we will explore the critical role of planning and requirements gathering in ensuring productive software development. Effective planning and thorough requirements gathering lay the foundation for successful project execution and the delivery of robust and scalable applications.
 
-1. Understanding the Significance of Planning
+1\. Understanding the Significance of Planning
 ---------------------------------------------
 
 ### 1.1 Benefits of Proper Planning
@@ -27,7 +27,7 @@ A comprehensive plan encompasses various key elements, including:
 * Allocating necessary resources (human, technical, and financial).
 * Identifying potential risks and developing mitigation strategies.
 
-2. The Role of Requirements Gathering
+2\. The Role of Requirements Gathering
 -------------------------------------
 
 ### 2.1 Importance of Gathering Requirements
@@ -50,7 +50,7 @@ To gather requirements effectively, software developers can employ various techn
 * Analyzing existing systems, processes, and documentation.
 * Employing prototyping and wireframing techniques to visualize requirements.
 
-3. Best Practices for Planning and Requirements Gathering
+3\. Best Practices for Planning and Requirements Gathering
 ---------------------------------------------------------
 
 ### 3.1 Collaborative Approach

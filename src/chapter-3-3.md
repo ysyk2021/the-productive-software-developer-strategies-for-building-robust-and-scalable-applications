@@ -1,8 +1,7 @@
 How to Use User Stories and Other Techniques to Enhance Requirements Gathering and Planning
 ====================================================================================================
 
-Introduction
-------------
+
 
 In software development, gathering accurate and comprehensive requirements is crucial for building robust and scalable applications. However, traditional methods often fall short in capturing the true needs and expectations of end-users. This chapter explores how user stories and other techniques can significantly improve the process of requirements gathering and planning.
 
@@ -21,7 +20,7 @@ A typical user story consists of three components:
 
 For example:
 
-    复制代码As a registered customer,
+    As a registered customer,
     I want to be able to track my orders online,
     So that I can monitor their progress and plan accordingly.
 
