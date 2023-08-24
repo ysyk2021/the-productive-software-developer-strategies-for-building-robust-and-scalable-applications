@@ -1,5 +1,3 @@
-Chapter 4: Agile Development and Scrum Frameworks
-=================================================
 
 In this chapter, we will explore the role of agile development and Scrum frameworks in productive software development. We will also provide strategies for using iterative development, sprint planning, and retrospectives to improve productivity, as well as how to use Kanban boards and other tools to enhance agile development and Scrum processes.
 

@@ -1,5 +1,3 @@
-Chapter 9: Collaborating and Communicating as a Productive Software Developer
-=============================================================================
 
 Effective collaboration and communication are critical components of successful software development. In this chapter, we will explore the role of collaboration and communication, and strategies for enhancing team communication and collaboration.
 

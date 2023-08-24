@@ -1,5 +1,3 @@
-Chapter 7: Managing Technical Debt and Legacy Code
-==================================================
 
 In this chapter, we will explore the challenges of managing technical debt and legacy code in productive software development. We will discuss strategies for prioritizing technical debt, reducing complexity, and modernizing legacy systems, as well as how to use code analysis and other techniques to enhance technical debt management and legacy code maintenance.
 

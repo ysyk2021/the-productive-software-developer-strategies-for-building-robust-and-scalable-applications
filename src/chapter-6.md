@@ -1,5 +1,3 @@
-Chapter 6: Effective Code Review and Refactoring
-================================================
 
 Effective code review and refactoring are critical components of productive software development. In this chapter, we will explore how effective code review and refactoring can improve the quality of code and help to reduce technical debt.
 

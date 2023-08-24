@@ -1,5 +1,3 @@
-Chapter 5: Test-Driven Development and Continuous Integration
-=============================================================
 
 In this chapter, we will explore the benefits of test-driven development and continuous integration for productive software development. We will also provide strategies for writing effective unit tests, automating build and deployment, and improving code quality.
 

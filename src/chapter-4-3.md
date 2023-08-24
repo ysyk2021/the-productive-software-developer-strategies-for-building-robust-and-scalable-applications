@@ -1,5 +1,3 @@
-How to Use Kanban Boards and Other Tools to Enhance Agile Development and Scrum Processes
-============================================================================================================================================
 
 Agile development and Scrum frameworks provide a flexible, iterative approach to software development that can help teams work more efficiently and effectively. One way to enhance these processes is through the use of Kanban boards and other related tools. In this chapter, we will explore how to use Kanban boards and other tools to enhance agile development and Scrum processes.
 
