@@ -1,5 +1,4 @@
-Chapter: Strategies for Profiling Code, Improving Efficiency, and Scaling Applications
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "The Productive Software Developer: Strategies for Building Robust and Scalable Applications," we will explore strategies for profiling code, improving efficiency, and scaling applications. Profiling code helps identify performance bottlenecks, while improving efficiency ensures optimal resource utilization. Scaling applications enables them to handle increased workloads and user demands.
 
